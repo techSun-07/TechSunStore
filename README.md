@@ -2,7 +2,7 @@
 Embrace the magic of tech convolution! 🌐Your go-to online tech shopping destination built with React.JS🛒🔥
 
 ## 🔗 TechSunStore: Explore Now!
-###  [TechSunStore](https://techsunstore.netlify.app/) :octocat:
+###  <a target="_blank" href="https://techsunstore.netlify.app/">[TechSunStore]() :octocat: </a>
 
 ## QR Visit: TechSunStore 📱👩‍💻
 <img src="https://github.com/techSun-07/TechSunStore/blob/main/TechSunStoreQR.png" width="15%" height="15%" />
