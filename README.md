@@ -1,10 +1,12 @@
 # Welcome to TechSunStore:
 Embrace the magic of tech convolution! 🌐Your go-to online tech shopping destination built with React.JS🛒🔥
 
-## Link to visit Website
+## 🔗 TechSunStore: Explore Now!
 ###  [TechSunStore](https://techsunstore.netlify.app/) :octocat:
 
-## Scan the QR Code to visit Website 📱👩‍💻
+## QR Visit: TechSunStore 📱👩‍💻
+<img src="https://github.com/techSun-07/TechSunStore/blob/main/TechSunStoreQR.png" width="15%" height="15%" />
+
 
 ## Follow the 3 Steps and you are good to go. 
 
