@@ -5,10 +5,11 @@ Embrace the magic of tech convolution! 🌐Your go-to online tech shopping desti
 ###  [TechSunStore](https://techsunstore.netlify.app/) :octocat:
 
 ## QR Visit: TechSunStore 📱👩‍💻
-<img src="https://github.com/techSun-07/TechSunStore/blob/main/TechSunStoreQR.png" width="15%" height="15%" />
+<img src="https://github.com/techSun-07/TechSunStore/assets/100226645/ae680231-a6ba-4f22-8149-96348755ee63" height = "200" />
 
 
-## Follow the 3 Steps and you are good to go. 
+## Follow the 3 Steps and you are good to go
+
 
 1: Clone the Project 
 
